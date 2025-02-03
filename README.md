@@ -11,6 +11,10 @@
 - **JavaScript (ES6+)** 🧠 - Adding interactivity and dynamic functionality.
 - **React.js** ⚛️ - Building efficient, scalable, and powerful UI components.
 - **Git & GitHub** 🔗 - Version control and collaboration for seamless project management.
+- **VS Code** 🖥️ - My go-to code editor for efficient development.
+- **Jest** 🧪 - Testing JavaScript code with confidence.
+- **Yup** ✅ - Schema validation for robust data handling.
+- **Axios** 🌐 - Making HTTP requests simple and clean.
 
 ---
 
@@ -27,6 +31,9 @@
 
 **Actively seeking a Front-End Web Development role** 🚀
 
+---
+
+### 🎨 **Style:**
 
 
 ### 📫 **Let's Connect:**
