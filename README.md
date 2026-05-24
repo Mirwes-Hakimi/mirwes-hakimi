@@ -29,8 +29,8 @@
 
 ### 📈 **GitHub Stats:**
 
-**Actively seeking a Front-End Web Development role** 🚀
-![Mirwes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirwes-Hakimi&show_icons=true&theme=dark)
+**Actively seeking Web Development role** 🚀
+![GitHub Streak](https://streak-stats.demolab.com?user=Mirwes-Hakimi&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirwes-Hakimi&layout=compact&theme=dark)
 
