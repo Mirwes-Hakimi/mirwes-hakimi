@@ -32,7 +32,7 @@
 **Actively seeking Web Development role** 🚀
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mirwes-Hakimi&theme=dark&hide_border=true&timezone=America/Los_Angeles)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirwes-Hakimi&layout=compact&theme=dark)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirwes-Hakimi&theme=github_dark)](https://github.com/Mirwes-Hakimi)
 
 
 ---
